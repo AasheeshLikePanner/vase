@@ -144,4 +144,4 @@ The code is on GitHub. Try it yourself. Run the benchmarks. The numbers don't li
 
 ---
 
-*Thanks for reading. If you have questions about the architecture or want to contribute, open an issue.*
+*Thanks for reading. If you have questions about the architecture or want to contribute, open an issue.*# vase
